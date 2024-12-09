@@ -1,0 +1,18 @@
+*
+{
+    margin: 0;
+    padding: 00;
+}
+body
+{
+    background-image: url(https://img.freepik.com/free-photo/wooden-table-with-blurred-background_1134-14.jpg?size=626&ext=jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading h3
+{
+    font-size: 50px;
+    text-align: center;
+    
+}
